@@ -1,5 +1,3 @@
- <!--[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]() -->
-
   <h1 align="center"><b>
    Hello there, I'm Tulio Rangel 👋</b>
 </h1>
