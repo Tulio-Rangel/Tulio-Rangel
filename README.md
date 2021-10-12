@@ -6,7 +6,7 @@
 
 I'm a developer growing  from <img src="https://www.worldometers.info/img/flags/co-flag.gif" width="14"/> - Colombia,  focusing in learning  Web development Full-Stack 
 - 🌱 I’m currently learning `Javascript`, `Nodejs`, `React`, `CSS` and more...
-- ⚡ Fun fact: I love :book: | :video_game: | :computer: | :coffee: | :music:
+- ⚡ Fun fact: I love :book: | :video_game: | :computer: | :coffee:
 - :speech_balloon: Learning English
 
 ## :bar_chart: My Stats
