@@ -14,7 +14,7 @@ I'm a developer growing  from <img src="https://www.worldometers.info/img/flags/
 <p align="center">
    <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tulio-Rangel&layout=compact">
    
- </ṕ>
+ </p>
  
 
 
