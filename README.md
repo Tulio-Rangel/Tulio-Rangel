@@ -12,9 +12,9 @@ I'm a developer growing  from <img src="https://www.worldometers.info/img/flags/
 ## :bar_chart: My Stats
 
 <p align="center">
-   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Tulio-Rangel&show_icons=true"
+   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Tulio-Rangel"
 ">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tulio-Rangel&hide=contribs,prs"
+   
  </ṕ>
  
 
