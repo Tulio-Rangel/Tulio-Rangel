@@ -4,7 +4,7 @@
 
 ## :triangular_flag_on_post: About me
 
-I'm a developer growing  from <img src="https://www.worldometers.info/img/flags/co-flag.gif" width="14"/> - Colombia,  focusing in learning  Web development Full-Stack 
+I'm a developer growing  from <img src="https://www.worldometers.info/img/flags/co-flag.gif" width="14"/> - Colombia,  focusing in learning  Web Development Full-Stack and Mobile Development
 - 🌱 I’m currently learning `Javascript`, `Nodejs`, `React`, `CSS` and more...
 - ⚡ Fun fact: I love :book: | :video_game: | :computer: | :coffee:
 - :speech_balloon: Learning English
