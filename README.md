@@ -1,11 +1,11 @@
-  <h1 align="center"><b>
+ <h1 align="center"><b>
    Hello there, I'm Tulio Rangel 👋</b>
 </h1>
 
 ## :triangular_flag_on_post: About me
 
 I'm a developer growing  from <img src="https://www.worldometers.info/img/flags/co-flag.gif" width="14"/> - Colombia,  focusing in learning Backend Web Development.
-- 🌱 I’m currently learning `JavaScript`, `NodeJS`, `NestJS`, `TypeScript`, `React` and more...
+- 🌱 I’m currently learning `JavaScript`, `NodeJS`, `NestJS`, `TypeScript`, `Java`, `Python` and more...
 - ⚡ Fun fact: I love :book: | :video_game: | :computer: | :coffee:
 - :speech_balloon: Learning English
 
