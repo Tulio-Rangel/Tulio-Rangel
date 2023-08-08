@@ -12,8 +12,7 @@ I'm a developer growing  from <img src="https://www.worldometers.info/img/flags/
 ## :bar_chart: My Stats
 
 <p align="center">
-   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tulio-Rangel&langs_count=10">
-   
+   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tulio-Rangel&show_icons=true&theme=synthwave&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="Tulio/Rangel">
  </p>
  
 
