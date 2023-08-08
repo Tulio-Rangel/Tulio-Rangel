@@ -4,8 +4,8 @@
 
 ## :triangular_flag_on_post: About me
 
-I'm a developer growing  from <img src="https://www.worldometers.info/img/flags/co-flag.gif" width="14"/> - Colombia,  focusing in learning Backend Web Development.
-- 🌱 I’m currently learning `JavaScript`, `NodeJS`, `Java`, `Springboot`, `Flutter` and more...
+I'm a Fullstack developer  from <img src="https://www.worldometers.info/img/flags/co-flag.gif" width="14"/> - Colombia,  focusing in Backend Development and sometimes Mobile Development.
+- 🌱 I’m working with `JavaScript`, `NodeJS`, `Java`, `Springboot`, `Flutter`, `SwiftUI`.
 - ⚡ Fun fact: I love :book: | :video_game: | :computer: | :coffee:
 - :speech_balloon: Learning English
 
