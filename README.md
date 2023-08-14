@@ -5,7 +5,7 @@
 ## :triangular_flag_on_post: About me
 
 I'm a Fullstack developer  from <img src="https://www.worldometers.info/img/flags/co-flag.gif" width="14"/> - Colombia,  focusing in Backend Development and sometimes Mobile Development.
-- 🌱 I’m working with `JavaScript`, `NodeJS`, `Java`, `Springboot`, `Flutter`, `SwiftUI`.
+- 🌱 I’m working with `JavaScript`-`NodeJS`, `Java`-`Springboot`, `Flutter`, `SwiftUI`.
 - ⚡ Fun fact: I love :book: | :video_game: | :computer: | :coffee:
 - :speech_balloon: Learning English
 
