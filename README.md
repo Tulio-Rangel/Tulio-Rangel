@@ -5,15 +5,9 @@
 ## :triangular_flag_on_post: About me
 
 I'm a Fullstack developer  from <img src="https://www.worldometers.info/img/flags/co-flag.gif" width="14"/> - Colombia,  focusing in Backend Development and sometimes Mobile Development.
-- 🌱 I’m working with `JavaScript`-`NodeJS`, `Java`-`Spring Boot`, `Flutter`, `SwiftUI`.
+- 🌱 I’m working with `Flutter`, `Java`-`Spring Boot`, `JavaScript`-`NodeJS`-`NestJS`, `SwiftUI`.
 - ⚡ Fun fact: I love :book: | :video_game: | :computer: | :coffee:
 - :speech_balloon: Learning English
-
-## :bar_chart: My Stats
-
-<p align="center">
-   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tulio-Rangel&show_icons=true&theme=synthwave&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="Tulio/Rangel">
- </p>
  
 
 
